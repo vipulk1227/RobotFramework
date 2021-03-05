@@ -18,6 +18,8 @@ MySecondTestCase
 MyThirdTestCase
     Log    Hello world  
     Set Tags    regression2
+MyFourthTestCase
+    Log    This is fourth test case    
 # FirstSeleniumTestCase
     # Open Browser    https://www.google.com/    chrome
     # Set Browser Implicit Wait    5
